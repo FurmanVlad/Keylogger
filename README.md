@@ -1,8 +1,29 @@
-# Keylogger
+# THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY
 
+# Keylogger
 ![developers](https://img.shields.io/badge/Developed%20By:-Furman%20Vlad-red)
 
-## HOW TO RUN THIS PROJECT
+Keystroke Logging to capture all keyboard input and Screen Capture for periodic screenshots of user activity. It operates in Stealth Mode, running undetected and hidden from the task manager and system tray. Additionally, it provides Email Reporting, sending log files and screenshots to a specified email address at configurable intervals for regular updates.
+
+## Features
+
+1. **Keystroke Logging**
+   - Captures all keystrokes entered on the keyboard.
+
+2. **Screen Capture**
+   - Takes periodic screenshots to visually monitor user activity.
+   - Configurable interval for taking screenshots.
+
+3. **Stealth Mode**
+   - Runs in the background without being detected.
+   - Hides from task manager and system tray.
+
+4. **Email Reporting**
+   - Sends log files and screenshots to a specified email address.
+   - Configurable email sending intervals.
+
+
+## How To Run This Project
 - Download Keylogger.py
 - Open a command prompt or terminal
 - Navigate to the directory where your script is located
